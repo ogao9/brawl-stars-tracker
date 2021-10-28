@@ -1,6 +1,5 @@
-# brawl-stars-tracker
+# Brawl Stars Tracker
 
-## What does it do?
 The Brawl Stars Tracker tracks the trophy progress of multiple players in the mobile game Brawl Stars. I created this because I was involved in a trophy-gaining competition with a group of friends, and we wanted a way to track our progress and standings without needing to pull out a calculator every time.
 
 ## Technologies Used
